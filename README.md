@@ -1,4 +1,4 @@
-# MeetYourRoommate Api development environment settings
+# Flutter App Notes
 
 This is a notes app with local database SQLite and Provider
 
